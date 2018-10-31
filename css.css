@@ -1,0 +1,12 @@
+.button, .button-text{
+	padding: 40px;
+	margin-right: 10px;
+    background: aqua;
+}
+.block-button, .block-button-text{
+
+    text-align: center
+}
+.sss{
+    display: none
+}
